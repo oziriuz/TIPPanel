@@ -6,7 +6,7 @@ This whole thing took me about 6 months to get it working as it should. Over the
 It is in usage by now in several Concrete Plants (maybe about 8-10) here in Bulgaria.
 First prototype is established for testing on a double concrete machine in Ruse (company name is Intis). 
 PostgreSQL is used for local database server and OPC Omron is used as a connection with the Omron PLC's.
-It is capable of exporting xls-files.
+It is capable of exporting xls-files. I uploaded the PDF, which i sent to the user to learn how to work with the software - SoftwareInfo.pdf
 
 The sofware consist of three main parts, each of which has it special purpose.
 The main part TIPDispatcher is the one for dipatching everything needed for the machine to operate and collecting back the data from the PLC itself.
