@@ -1,2 +1,2 @@
 *.vba linguist-detectable=false
-*.vbpro linguist-detectable=true
+*.vbproj linguist-detectable=true
